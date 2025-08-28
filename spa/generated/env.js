@@ -1,0 +1,1 @@
+export let env={local:!1,baseurl:"/papermod/",routes:{index:":paginate(totalPages)",pages:":filename"},types:["pages","posts","tags"],singleTypes:["attributions","buildlog","index"],fingerprint:"IQRBljFwYt",entrypointHTML:"global/html.svelte",entrypointJS:"spa",sitevars:null,cms:{provider:"",repo:"",redirectUrl:"",appId:"",branch:""}}
