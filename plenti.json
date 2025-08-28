@@ -3,7 +3,7 @@
 		"pages": ":filename",
 		"index": ":paginate(totalPages)"
 	},
-	"baseurl": "/papermod/",
+	"baseurl": "/blog/",
 	"build": "public",
 	"local": {
 		"port": 3000
