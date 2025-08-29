@@ -1,0 +1,1 @@
+import{SvelteComponent,init,safe_not_equal}from"../../web_modules/svelte/internal/index.mjs";import{writable}from"../../web_modules/svelte/store/index.mjs";const count=writable(0);class Component extends SvelteComponent{constructor(e){super(),init(this,e,null,null,safe_not_equal,{})}}export default Component;export{count}
